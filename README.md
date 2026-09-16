@@ -13,23 +13,22 @@
 - Выявление и формализация требований (интервью, анализ AS IS / TO BE)
 - Управление требованиями и их приоритизация
 - User Story, User Story Mapping, Use Case
-- Acceptance Criteria,
+- Acceptance Criteria
 
 **Документация**
 - ТЗ, ПМИ
 - Пользовательская документация
 
-**Прототипирование и дизайн**
+**Моделирование**
 - Miro, Figma, Draw.io
+- BPMN 2.0
 
 **Инструменты и технологии**
 - SQL
-- BPMN 2.0
-- Jira
 
 **Методологии**
 - Agile, Scrum
-- Waterfall
+- Waterfall(каскадная)
 ---
 
 ## Опыт и бэкграунд
